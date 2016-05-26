@@ -55,42 +55,20 @@ class SiteController extends Controller
         ];
     }
 
-    public function actionPostExample()
+/*    public function actionPostExample()
     {
-        //Init curl
         $curl = new curl\Curl();
-
-        //post http://example.com/
-        $response = $curl->setOption(
-            CURLOPT_POSTFIELDS,
-            http_build_query(array(
-                    'table' => 'cashierdata'
-
-                )
-            ))
-            ->post('http://test.local/backend/web/cashier');
-    }
-    /*public function actionPostExample()
-    {
-        //Init curl
-        $curl = new curl\Curl();
-
-        //post http://example.com/
-        $response = $curl->setOption(
-            CURLOPT_POSTFIELDS,
-            http_build_query(array(
-                    'table' => 'shifts',
-                    'date_from' => '2016-04-01',
-                    'date_to' => '2016-05-01'
-                )
-            ))
-            ->post('http://test.local/backend/web/cashiers-shift');
+        $response = $curl->setOption(CURLOPT_POSTFIELDS, http_build_query(array('table' => 'cashierdata')))->post('http://test.local/backend/web/cashier');
     }*/
+   public function actionPostExample()
+    {
+        $curl = new curl\Curl();
+        $response = $curl->setOption(CURLOPT_POSTFIELDS,http_build_query(array('table' => 'shifts','date_from' => '2016-04-01','date_to' => '2016-05-01')))
+        ->post('http://test.local/backend/web/cashiers-shift');
+    }
 
     public function beforeAction($action)
     {
-        // ...set `$this->enableCsrfValidation` here based on some conditions...
-        // call parent method that will check CSRF if such property is true.
             $this->enableCsrfValidation = false;
                 if (Yii::$app->request->post('table') && Yii::$app->request->post('date_from') && Yii::$app->request->post('date_to')){
 
