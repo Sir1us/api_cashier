@@ -25941,3 +25941,2566 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1464181013.92
     'REQUEST_TIME' => 1464181013
 ]
+2016-05-26 06:15:11 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 06:15:11 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '40428'
+    'REDIRECT_URL' => '/backend/web/cashiers-shift'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashiers-shift'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464243311.962
+    'REQUEST_TIME' => 1464243311
+]
+2016-05-26 06:15:12 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 06:15:12 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '40430'
+    'REDIRECT_URL' => '/backend/web/cashiers-shift'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashiers-shift'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464243312.711
+    'REQUEST_TIME' => 1464243312
+]
+2016-05-26 06:15:13 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 06:15:13 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '40436'
+    'REDIRECT_URL' => '/backend/web/cashiers-shift'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashiers-shift'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464243313.127
+    'REQUEST_TIME' => 1464243313
+]
+2016-05-26 06:15:13 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 06:15:13 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '40442'
+    'REDIRECT_URL' => '/backend/web/cashiers-shift'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashiers-shift'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464243313.335
+    'REQUEST_TIME' => 1464243313
+]
+2016-05-26 06:15:13 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 06:15:13 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '40448'
+    'REDIRECT_URL' => '/backend/web/cashiers-shift'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashiers-shift'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464243313.663
+    'REQUEST_TIME' => 1464243313
+]
+2016-05-26 07:36:02 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined function backend\controllers\curl_init()' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:60
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+2016-05-26 07:36:02 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '41794'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464248162.206
+    'REQUEST_TIME' => 1464248162
+]
+2016-05-26 08:07:35 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+2016-05-26 08:07:35 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '42554'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464250055.973
+    'REQUEST_TIME' => 1464250055
+]
+2016-05-26 08:07:37 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+2016-05-26 08:07:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '42556'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464250057.02
+    'REQUEST_TIME' => 1464250057
+]
+2016-05-26 08:14:45 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "s".' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php:460
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('s', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:14:45 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '42994'
+    'REDIRECT_URL' => '/backend/web/s'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/s'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464250485.703
+    'REQUEST_TIME' => 1464250485
+]
+2016-05-26 08:23:27 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:23:27 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43224'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251007.578
+    'REQUEST_TIME' => 1464251007
+]
+2016-05-26 08:23:32 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:23:32 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43224'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251012.328
+    'REQUEST_TIME' => 1464251012
+]
+2016-05-26 08:23:43 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:23:43 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43244'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251023.6
+    'REQUEST_TIME' => 1464251023
+]
+2016-05-26 08:23:44 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:23:44 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43244'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251024.777
+    'REQUEST_TIME' => 1464251024
+]
+2016-05-26 08:23:49 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:23:49 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43244'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251029.026
+    'REQUEST_TIME' => 1464251029
+]
+2016-05-26 08:27:47 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:27:47 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43300'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251267.498
+    'REQUEST_TIME' => 1464251267
+]
+2016-05-26 08:28:11 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:28:11 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43308'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251291.516
+    'REQUEST_TIME' => 1464251291
+]
+2016-05-26 08:28:18 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:28:18 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43310'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251298.541
+    'REQUEST_TIME' => 1464251298
+]
+2016-05-26 08:28:26 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:28:26 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43320'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251306.455
+    'REQUEST_TIME' => 1464251306
+]
+2016-05-26 08:29:13 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:29:13 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43338'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251353.896
+    'REQUEST_TIME' => 1464251353
+]
+2016-05-26 08:29:25 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: cashier/' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php:125
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('', Array)
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('cashier', Array)
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php:96
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2016-05-26 08:29:25 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '43346'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464251365.53
+    'REQUEST_TIME' => 1464251365
+]
+2016-05-26 09:26:14 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:26:14 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45142'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464254774.583
+    'REQUEST_TIME' => 1464254774
+]
+2016-05-26 09:28:15 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:28:15 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45202'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464254895.287
+    'REQUEST_TIME' => 1464254895
+]
+2016-05-26 09:28:16 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:28:16 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45204'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464254896.104
+    'REQUEST_TIME' => 1464254896
+]
+2016-05-26 09:30:55 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:30:55 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45328'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255055.937
+    'REQUEST_TIME' => 1464255055
+]
+2016-05-26 09:30:56 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:30:56 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45330'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255056.624
+    'REQUEST_TIME' => 1464255056
+]
+2016-05-26 09:30:57 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:30:57 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45336'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255057.193
+    'REQUEST_TIME' => 1464255057
+]
+2016-05-26 09:31:50 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:31:50 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45352'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255110.48
+    'REQUEST_TIME' => 1464255110
+]
+2016-05-26 09:31:51 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:31:51 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45354'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255111.2
+    'REQUEST_TIME' => 1464255111
+]
+2016-05-26 09:31:51 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:31:51 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45360'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255111.432
+    'REQUEST_TIME' => 1464255111
+]
+2016-05-26 09:31:52 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:31:52 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45366'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255112.632
+    'REQUEST_TIME' => 1464255112
+]
+2016-05-26 09:32:36 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:36 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45382'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255156.72
+    'REQUEST_TIME' => 1464255156
+]
+2016-05-26 09:32:37 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45384'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255157.288
+    'REQUEST_TIME' => 1464255157
+]
+2016-05-26 09:32:37 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45390'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255157.488
+    'REQUEST_TIME' => 1464255157
+]
+2016-05-26 09:32:37 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45396'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255157.704
+    'REQUEST_TIME' => 1464255157
+]
+2016-05-26 09:32:38 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45402'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255158.088
+    'REQUEST_TIME' => 1464255158
+]
+2016-05-26 09:32:42 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:42 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45408'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255162.648
+    'REQUEST_TIME' => 1464255162
+]
+2016-05-26 09:32:43 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:43 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45414'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255163.12
+    'REQUEST_TIME' => 1464255163
+]
+2016-05-26 09:32:43 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:43 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45422'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255163.463
+    'REQUEST_TIME' => 1464255163
+]
+2016-05-26 09:32:43 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:43 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45428'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255163.664
+    'REQUEST_TIME' => 1464255163
+]
+2016-05-26 09:32:43 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:43 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45434'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255163.848
+    'REQUEST_TIME' => 1464255163
+]
+2016-05-26 09:32:46 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:46 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45440'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255166.863
+    'REQUEST_TIME' => 1464255166
+]
+2016-05-26 09:32:47 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:32:47 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45446'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255167.32
+    'REQUEST_TIME' => 1464255167
+]
+2016-05-26 09:42:18 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:42:18 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45666'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255738.746
+    'REQUEST_TIME' => 1464255738
+]
+2016-05-26 09:42:19 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:42:19 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45668'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255739.44
+    'REQUEST_TIME' => 1464255739
+]
+2016-05-26 09:42:19 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:42:19 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45674'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255739.648
+    'REQUEST_TIME' => 1464255739
+]
+2016-05-26 09:42:19 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:42:19 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45680'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255739.864
+    'REQUEST_TIME' => 1464255739
+]
+2016-05-26 09:42:20 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Use of undefined constant CURLOPT_USERAGENT - assumed 'CURLOPT_USERAGENT'' in /home/sir1us/webservers/test.local/backend/controllers/SiteController.php:61
+Stack trace:
+#0 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Controller.php(152): backend\controllers\SiteController->beforeAction()
+#1 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction()
+#2 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction()
+#3 /home/sir1us/webservers/test.local/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest()
+#4 /home/sir1us/webservers/test.local/backend/web/index.php(18): yii\base\Application->run()
+#5 {main}
+2016-05-26 09:42:20 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45686'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255740.136
+    'REQUEST_TIME' => 1464255740
+]
+2016-05-26 09:42:44 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 09:42:44 [127.0.0.1][-][-][info][application] $_POST = [
+    'table' => 'cashierdata'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_USER_AGENT' => 'Yii2-Curl-Agent'
+    'HTTP_ACCEPT' => '*/*'
+    'CONTENT_LENGTH' => '17'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45704'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255764.303
+    'REQUEST_TIME' => 1464255764
+]
+2016-05-26 09:42:44 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 09:42:44 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj\";}'
+    'PHPSESSID' => 'nft70tkft6193bfqsusro2la27'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'test.local'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=34085ac9360c9f1f67a38fa53c529387691dc1fee23ff996630d61f20daad7e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22j0RYoMLEdjLvIheJG-Ici0Pjrilg8Foj%22%3B%7D; PHPSESSID=nft70tkft6193bfqsusro2la27'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45698'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255764.272
+    'REQUEST_TIME' => 1464255764
+]
+2016-05-26 09:42:45 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 09:42:45 [127.0.0.1][-][-][info][application] $_POST = [
+    'table' => 'cashierdata'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_USER_AGENT' => 'Yii2-Curl-Agent'
+    'HTTP_ACCEPT' => '*/*'
+    'CONTENT_LENGTH' => '17'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45716'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255765.612
+    'REQUEST_TIME' => 1464255765
+]
+2016-05-26 09:42:46 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 09:42:46 [127.0.0.1][-][-][info][application] $_POST = [
+    'table' => 'cashierdata'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_USER_AGENT' => 'Yii2-Curl-Agent'
+    'HTTP_ACCEPT' => '*/*'
+    'CONTENT_LENGTH' => '17'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45732'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255766.461
+    'REQUEST_TIME' => 1464255766
+]
+2016-05-26 09:42:47 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 09:42:47 [127.0.0.1][-][-][info][application] $_POST = [
+    'table' => 'cashierdata'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_USER_AGENT' => 'Yii2-Curl-Agent'
+    'HTTP_ACCEPT' => '*/*'
+    'CONTENT_LENGTH' => '17'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '45748'
+    'REDIRECT_URL' => '/backend/web/cashier'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashier'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464255767.11
+    'REQUEST_TIME' => 1464255767
+]
+2016-05-26 09:57:44 [127.0.0.1][-][-][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'Module 'xdebug' already loaded' in Unknown:0
+Stack trace:
+#0 {main}
+2016-05-26 09:57:44 [127.0.0.1][-][-][info][application] $_POST = [
+    'table' => 'shifts'
+    'date_from' => '2016-04-01'
+    'date_to' => '2016-05-01'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'test.local'
+    'HTTP_USER_AGENT' => 'Yii2-Curl-Agent'
+    'HTTP_ACCEPT' => '*/*'
+    'CONTENT_LENGTH' => '52'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.12 (Ubuntu) Server at test.local Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.12 (Ubuntu)'
+    'SERVER_NAME' => 'test.local'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sir1us/webservers/test.local'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/sir1us/webservers/test.local/backend/web/index.php'
+    'REMOTE_PORT' => '46070'
+    'REDIRECT_URL' => '/backend/web/cashiers-shift'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/backend/web/cashiers-shift'
+    'SCRIPT_NAME' => '/backend/web/index.php'
+    'PHP_SELF' => '/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1464256664.812
+    'REQUEST_TIME' => 1464256664
+]

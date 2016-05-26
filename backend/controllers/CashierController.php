@@ -18,7 +18,7 @@ class CashierController extends \yii\web\Controller
         return parent::beforeAction($action);
     }
 
-    public function actionInfo()
+    public function actionIndex()
     {
         if(Yii::$app->request->post('table') == 'cashierdata') {
 

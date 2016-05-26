@@ -1,13 +1,13 @@
 <?php
 namespace backend\controllers;
 
-use backend\models\Cashier;
+
 use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;
 use common\models\LoginForm;
 use yii\filters\VerbFilter;
-use yii\helpers\Url;
+use linslin\yii2\curl;
 
 /**
  * Site controller
@@ -55,6 +55,38 @@ class SiteController extends Controller
         ];
     }
 
+    public function actionPostExample()
+    {
+        //Init curl
+        $curl = new curl\Curl();
+
+        //post http://example.com/
+        $response = $curl->setOption(
+            CURLOPT_POSTFIELDS,
+            http_build_query(array(
+                    'table' => 'cashierdata'
+
+                )
+            ))
+            ->post('http://test.local/backend/web/cashier');
+    }
+    /*public function actionPostExample()
+    {
+        //Init curl
+        $curl = new curl\Curl();
+
+        //post http://example.com/
+        $response = $curl->setOption(
+            CURLOPT_POSTFIELDS,
+            http_build_query(array(
+                    'table' => 'shifts',
+                    'date_from' => '2016-04-01',
+                    'date_to' => '2016-05-01'
+                )
+            ))
+            ->post('http://test.local/backend/web/cashiers-shift');
+    }*/
+
     public function beforeAction($action)
     {
         // ...set `$this->enableCsrfValidation` here based on some conditions...
@@ -66,7 +98,10 @@ class SiteController extends Controller
 
                 } elseif (Yii::$app->request->post('table')) {
 
-                    return (new CashierController($this->id, $this->module))->actionInfo();
+                    return (new CashierController($this->id, $this->module))->actionIndex();
+
+                } else {
+                    return $this->actionPostExample();
                 }
 
         return false;
